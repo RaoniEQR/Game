@@ -7,6 +7,6 @@ Functions created:
 -ViewInfo: show game information
 -Play: This is where it all starts, you choose the difficulty, we have three difficulty levels: easy, medium, hard, insane and ultra
 
-#Usage
+# Usage
 gcc game.c && ./a.out
 
